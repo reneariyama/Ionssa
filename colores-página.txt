@@ -1,0 +1,6 @@
+cards-flip card carousel- aún sin decidir
+
+Aplicaciones- slider de rs-demo-premium-nice-carousel.html
+	rs-demo-premium-carousel-gallery.html
+
+
