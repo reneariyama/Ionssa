@@ -102,6 +102,10 @@
 	Basic
 -----------------------------------------------------------------*/
 
+.carousel-inner img {
+	margin: auto;
+  }
+
 dl, dt, dd, ol, ul, li {
 	margin: 0;
 	padding: 0;
@@ -6685,7 +6689,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 	background-color: #FFF;
 }
 
-#content p { line-height: 1.8; }
+#content p { line-height: 1.8; font-size: 20px; }
 
 .content-wrap {
 	position: relative;
